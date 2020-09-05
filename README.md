@@ -1,7 +1,7 @@
 # Contact Cards - ReactJS App
 [![made-with-reactjs](https://img.shields.io/badge/Frontend-ReactJS-06B3E1.svg)](https://reactjs.org/)
 
-ReactJS app that fetches user info from [3rd Party API](https://randomuser.me/api) and display them in contact cards
+ReactJS app that fetches user info from [3rd Party API](https://randomuser.me/api) and displays them in contact cards
 
 ## Code Structure
 
