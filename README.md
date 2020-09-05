@@ -19,3 +19,5 @@ To run the app, go to the project directory and run the following:
 ```
 npm start
 ```
+
+![ContactCards](https://github.com/RayanAlkhelaiwi/ContactCards-ReactJS/blob/master/public/ContactCards.png)
