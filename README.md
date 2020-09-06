@@ -3,6 +3,8 @@
 
 ReactJS app that fetches user info from [3rd Party API](https://randomuser.me/api) and displays them in contact cards
 
+[Demo](https://rayan.dev/contact_cards_reactjs)
+
 ## Code Structure
 
 ```sh
